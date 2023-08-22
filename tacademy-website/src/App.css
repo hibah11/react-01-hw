@@ -1,0 +1,55 @@
+.container-fluid{
+  background-color: #4E3797;
+  color: white;
+}
+
+.secound-part{
+background-color: #F5F6FA;
+}
+
+.secound-part1{
+  background-color: white;
+}
+
+.fs-2{
+  color: #4E3797;
+}
+
+.btn-old{
+  background-color: #4E3797;
+  color: white;
+}
+
+.btn-young{
+  color: #4E3797;
+  background-color: white;
+}
+
+.btn-young:hover{
+  background-color: #4E3797;
+}
+
+.card-con{
+  background-color: #F5F6FA;
+}
+
+.footer{
+  background-color: #4E3797;
+}
+
+.rights{
+  color: white;
+}
+
+.nav-logo{
+  height: 10%; width: 15%;
+}
+
+.foot-logo{
+  height: 25%; width: 25%;
+}
+
+.fillter-img{
+  width: 20;
+  height: 20;
+}
